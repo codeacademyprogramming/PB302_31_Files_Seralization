@@ -1,0 +1,17 @@
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\FormatLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\FormatLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\FormatLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\FormatLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\FormatLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\refint\FormatLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\ref\FormatLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLesson\obj\Debug\net6.0\FormatLesson.csproj.CopyComplete

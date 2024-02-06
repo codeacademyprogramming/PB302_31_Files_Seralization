@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\bin\Debug\net8.0\FormatLessonNew.exe
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\bin\Debug\net8.0\FormatLessonNew.deps.json
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\bin\Debug\net8.0\FormatLessonNew.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\bin\Debug\net8.0\FormatLessonNew.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\bin\Debug\net8.0\FormatLessonNew.pdb
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\refint\FormatLessonNew.dll
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.pdb
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\FormatLessonNew.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\31. 06-02-2024\TaskLesson\FormatLessonNew\obj\Debug\net8.0\ref\FormatLessonNew.dll
